@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yusukeito58",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "papaparse": "^5.1.1",
+    "puppeteer": "^2.1.1"
+  }
+}
